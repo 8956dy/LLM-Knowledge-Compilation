@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "26da6818afd8b698",
+        "id": "430880cef3006238",
         "type": "tabs",
         "children": [
           {
-            "id": "12a935b1321d696c",
+            "id": "c17d635a8c458707",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -184,10 +184,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "12a935b1321d696c",
+  "active": "ee60f69d78aa8407",
   "lastOpenFiles": [
-    "深度学习面试题.md",
     "深度学习详细知识文档.md",
+    "深度学习详细知识文档.md.baiduyun.uploading.cfg",
+    "深度学习面试题.md",
     "深度学习详细知识文档111.md.baiduyun.uploading.cfg"
   ]
 }
