@@ -164,13 +164,23 @@
               "icon": "lucide-list",
               "title": "深度学习详细知识文档 的大纲"
             }
+          },
+          {
+            "id": "6da463f30c12a409",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ee60f69d78aa8407",
+  "active": "c17d635a8c458707",
   "lastOpenFiles": [
     "深度学习详细知识文档.md",
     "深度学习详细知识文档.md.baiduyun.uploading.cfg",
