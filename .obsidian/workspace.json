@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "深度学习详细知识文档.md",
+                "file": "深度学习面试题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "深度学习详细知识文档"
+              "title": "深度学习面试题"
             }
           }
         ]
@@ -197,8 +197,9 @@
   "active": "c17d635a8c458707",
   "lastOpenFiles": [
     "深度学习详细知识文档.md",
-    "深度学习详细知识文档.md.baiduyun.uploading.cfg",
+    "深度学习面试题.md.baiduyun.uploading.cfg",
     "深度学习面试题.md",
+    "深度学习详细知识文档.md.baiduyun.uploading.cfg",
     "深度学习详细知识文档111.md.baiduyun.uploading.cfg"
   ]
 }
